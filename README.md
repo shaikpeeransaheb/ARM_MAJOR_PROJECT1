@@ -1,4 +1,4 @@
-# ARM_MAJOR_PROJECT_ distributed icu patient monitoring network
+# ARM_MAJOR_PROJECT_ distributed icu patient monitoring system
 Patient health monitoring system using **ARM LPC2129** and **CAN Protocol**.
 Patient room data is sent to server room over CAN bus and displayed on PC.
 
